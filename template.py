@@ -13,10 +13,10 @@ list_of_files = [
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/utils/common.py/__init__.py",
     f"src/{project_name}/config/__init__.py",
-    f"src/{project_name}/config/configuration/__init__.py",
+    f"src/{project_name}/config/configuration.py/__init__.py",
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
-    f"src/{project_name}/entity/config_entity/__init__.py",
+    f"src/{project_name}/entity/config_entity.py/__init__.py",
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
     "params.yaml",
@@ -26,7 +26,7 @@ list_of_files = [
     "dockerfile",
     "requirements.txt",
     "setup.py",
-    "research.trials.ipynb",
+    "research/research.trials.ipynb",
     "template/index.html"
     ]
 
